@@ -1,0 +1,1001 @@
+customer_id,recommended_products
+1,['Investment Plan']
+2,"['Top-Up Loan', 'GoldCard', 'Engagement Call Reminder']"
+3,"['Credit Builder FD', 'Engagement Call Reminder']"
+4,"['GoldCard', 'Credit Builder FD']"
+5,['Credit Builder FD']
+6,"['GoldCard', 'Credit Builder FD', 'Engagement Call Reminder']"
+7,['Top-Up Loan']
+8,"['Platinum Card', 'Investment Plan', 'Engagement Call Reminder']"
+9,"['Credit Builder FD', 'Engagement Call Reminder']"
+10,['Maintain Current Portfolio']
+11,['Engagement Call Reminder']
+12,['Engagement Call Reminder']
+13,['Top-Up Loan']
+14,['Credit Builder FD']
+15,"['GoldCard', 'Engagement Call Reminder']"
+16,['Engagement Call Reminder']
+17,"['Platinum Card', 'Engagement Call Reminder']"
+18,['Credit Builder FD']
+19,"['GoldCard', 'Credit Builder FD']"
+20,"['Top-Up Loan', 'Engagement Call Reminder']"
+21,"['Top-Up Loan', 'GoldCard']"
+22,['Engagement Call Reminder']
+23,"['Investment Plan', 'Engagement Call Reminder']"
+24,"['GoldCard', 'Investment Plan', 'Engagement Call Reminder']"
+25,"['Top-Up Loan', 'GoldCard', 'Engagement Call Reminder']"
+26,"['GoldCard', 'Credit Builder FD', 'Engagement Call Reminder']"
+27,['Credit Builder FD']
+28,['Engagement Call Reminder']
+29,"['Top-Up Loan', 'GoldCard', 'Engagement Call Reminder']"
+30,['Credit Builder FD']
+31,['Credit Builder FD']
+32,['Engagement Call Reminder']
+33,['Maintain Current Portfolio']
+34,['Maintain Current Portfolio']
+35,['Engagement Call Reminder']
+36,['Credit Builder FD']
+37,"['Top-Up Loan', 'GoldCard', 'Engagement Call Reminder']"
+38,"['Platinum Card', 'Engagement Call Reminder']"
+39,"['Credit Builder FD', 'Engagement Call Reminder']"
+40,['Engagement Call Reminder']
+41,"['Platinum Card', 'Engagement Call Reminder']"
+42,"['Top-Up Loan', 'GoldCard', 'Engagement Call Reminder']"
+43,['Engagement Call Reminder']
+44,['Engagement Call Reminder']
+45,['GoldCard']
+46,['Credit Builder FD']
+47,['Maintain Current Portfolio']
+48,"['Top-Up Loan', 'GoldCard', 'Engagement Call Reminder']"
+49,"['GoldCard', 'Engagement Call Reminder']"
+50,['Maintain Current Portfolio']
+51,"['Top-Up Loan', 'Engagement Call Reminder']"
+52,['Maintain Current Portfolio']
+53,"['Credit Builder FD', 'Engagement Call Reminder']"
+54,"['Credit Builder FD', 'Engagement Call Reminder']"
+55,['Engagement Call Reminder']
+56,['Engagement Call Reminder']
+57,"['Investment Plan', 'Engagement Call Reminder']"
+58,"['Platinum Card', 'Engagement Call Reminder']"
+59,['Engagement Call Reminder']
+60,['GoldCard']
+61,['Engagement Call Reminder']
+62,"['GoldCard', 'Credit Builder FD', 'Engagement Call Reminder']"
+63,['Maintain Current Portfolio']
+64,['Engagement Call Reminder']
+65,['Engagement Call Reminder']
+66,['Credit Builder FD']
+67,['Credit Builder FD']
+68,"['Credit Builder FD', 'Engagement Call Reminder']"
+69,['Maintain Current Portfolio']
+70,['Platinum Card']
+71,"['GoldCard', 'Credit Builder FD']"
+72,['Credit Builder FD']
+73,"['GoldCard', 'Credit Builder FD', 'Engagement Call Reminder']"
+74,"['Credit Builder FD', 'Engagement Call Reminder']"
+75,"['Credit Builder FD', 'Engagement Call Reminder']"
+76,"['Credit Builder FD', 'Engagement Call Reminder']"
+77,['Engagement Call Reminder']
+78,"['Credit Builder FD', 'Engagement Call Reminder']"
+79,"['Credit Builder FD', 'Engagement Call Reminder']"
+80,"['Top-Up Loan', 'Engagement Call Reminder']"
+81,"['GoldCard', 'Engagement Call Reminder']"
+82,"['Top-Up Loan', 'GoldCard', 'Engagement Call Reminder']"
+83,"['Credit Builder FD', 'Engagement Call Reminder']"
+84,['Credit Builder FD']
+85,"['Top-Up Loan', 'Engagement Call Reminder']"
+86,['Credit Builder FD']
+87,['Credit Builder FD']
+88,['Maintain Current Portfolio']
+89,"['Investment Plan', 'Engagement Call Reminder']"
+90,"['Top-Up Loan', 'GoldCard', 'Investment Plan', 'Engagement Call Reminder']"
+91,"['Top-Up Loan', 'Investment Plan', 'Engagement Call Reminder']"
+92,['Investment Plan']
+93,['Maintain Current Portfolio']
+94,"['Credit Builder FD', 'Engagement Call Reminder']"
+95,['Maintain Current Portfolio']
+96,"['Top-Up Loan', 'GoldCard', 'Engagement Call Reminder']"
+97,['Engagement Call Reminder']
+98,"['Top-Up Loan', 'Engagement Call Reminder']"
+99,['GoldCard']
+100,"['Platinum Card', 'Investment Plan']"
+101,"['Credit Builder FD', 'Engagement Call Reminder']"
+102,"['Top-Up Loan', 'Engagement Call Reminder']"
+103,"['Investment Plan', 'Engagement Call Reminder']"
+104,['Engagement Call Reminder']
+105,"['Top-Up Loan', 'GoldCard']"
+106,"['Top-Up Loan', 'Investment Plan', 'Engagement Call Reminder']"
+107,"['Credit Builder FD', 'Engagement Call Reminder']"
+108,"['Credit Builder FD', 'Engagement Call Reminder']"
+109,['Top-Up Loan']
+110,['Top-Up Loan']
+111,"['Investment Plan', 'Engagement Call Reminder']"
+112,['Engagement Call Reminder']
+113,"['GoldCard', 'Engagement Call Reminder']"
+114,['Credit Builder FD']
+115,['Maintain Current Portfolio']
+116,"['Platinum Card', 'Investment Plan']"
+117,['Platinum Card']
+118,['Credit Builder FD']
+119,"['GoldCard', 'Credit Builder FD']"
+120,"['Platinum Card', 'Investment Plan', 'Engagement Call Reminder']"
+121,"['Credit Builder FD', 'Engagement Call Reminder']"
+122,"['GoldCard', 'Credit Builder FD', 'Engagement Call Reminder']"
+123,"['GoldCard', 'Credit Builder FD', 'Engagement Call Reminder']"
+124,['Credit Builder FD']
+125,['Engagement Call Reminder']
+126,['Maintain Current Portfolio']
+127,['Credit Builder FD']
+128,"['Credit Builder FD', 'Engagement Call Reminder']"
+129,"['Top-Up Loan', 'Engagement Call Reminder']"
+130,"['Platinum Card', 'Investment Plan', 'Engagement Call Reminder']"
+131,['Credit Builder FD']
+132,['Maintain Current Portfolio']
+133,['Credit Builder FD']
+134,"['GoldCard', 'Credit Builder FD', 'Engagement Call Reminder']"
+135,['Credit Builder FD']
+136,"['Platinum Card', 'Investment Plan', 'Engagement Call Reminder']"
+137,['Top-Up Loan']
+138,"['Top-Up Loan', 'Engagement Call Reminder']"
+139,['Top-Up Loan']
+140,['Engagement Call Reminder']
+141,['Maintain Current Portfolio']
+142,"['Investment Plan', 'Engagement Call Reminder']"
+143,"['GoldCard', 'Credit Builder FD', 'Engagement Call Reminder']"
+144,"['GoldCard', 'Engagement Call Reminder']"
+145,['Maintain Current Portfolio']
+146,['Engagement Call Reminder']
+147,['Platinum Card']
+148,"['GoldCard', 'Engagement Call Reminder']"
+149,"['Credit Builder FD', 'Engagement Call Reminder']"
+150,['Engagement Call Reminder']
+151,"['Platinum Card', 'GoldCard']"
+152,['Maintain Current Portfolio']
+153,['Engagement Call Reminder']
+154,"['Platinum Card', 'Investment Plan', 'Engagement Call Reminder']"
+155,['Credit Builder FD']
+156,"['GoldCard', 'Credit Builder FD', 'Engagement Call Reminder']"
+157,"['Top-Up Loan', 'Investment Plan', 'Engagement Call Reminder']"
+158,"['Platinum Card', 'Investment Plan', 'Engagement Call Reminder']"
+159,['Maintain Current Portfolio']
+160,"['GoldCard', 'Credit Builder FD', 'Engagement Call Reminder']"
+161,"['Credit Builder FD', 'Engagement Call Reminder']"
+162,['GoldCard']
+163,['Credit Builder FD']
+164,['Investment Plan']
+165,['Maintain Current Portfolio']
+166,"['Platinum Card', 'Investment Plan']"
+167,"['GoldCard', 'Credit Builder FD']"
+168,"['Credit Builder FD', 'Engagement Call Reminder']"
+169,"['GoldCard', 'Credit Builder FD']"
+170,"['GoldCard', 'Credit Builder FD']"
+171,['Engagement Call Reminder']
+172,"['Credit Builder FD', 'Engagement Call Reminder']"
+173,['Engagement Call Reminder']
+174,['Engagement Call Reminder']
+175,"['Platinum Card', 'GoldCard']"
+176,"['GoldCard', 'Engagement Call Reminder']"
+177,"['Platinum Card', 'Investment Plan', 'Engagement Call Reminder']"
+178,['Credit Builder FD']
+179,['Credit Builder FD']
+180,['Maintain Current Portfolio']
+181,['Maintain Current Portfolio']
+182,['Credit Builder FD']
+183,['Top-Up Loan']
+184,['GoldCard']
+185,"['GoldCard', 'Credit Builder FD', 'Engagement Call Reminder']"
+186,['Maintain Current Portfolio']
+187,"['GoldCard', 'Engagement Call Reminder']"
+188,"['Investment Plan', 'Engagement Call Reminder']"
+189,"['Top-Up Loan', 'GoldCard']"
+190,"['Platinum Card', 'Engagement Call Reminder']"
+191,['Engagement Call Reminder']
+192,['Credit Builder FD']
+193,['Top-Up Loan']
+194,"['GoldCard', 'Credit Builder FD']"
+195,['Credit Builder FD']
+196,['Maintain Current Portfolio']
+197,['Engagement Call Reminder']
+198,"['GoldCard', 'Credit Builder FD']"
+199,['Engagement Call Reminder']
+200,"['Credit Builder FD', 'Engagement Call Reminder']"
+201,['Maintain Current Portfolio']
+202,['Top-Up Loan']
+203,"['Credit Builder FD', 'Engagement Call Reminder']"
+204,['Maintain Current Portfolio']
+205,['Maintain Current Portfolio']
+206,"['Credit Builder FD', 'Engagement Call Reminder']"
+207,['Maintain Current Portfolio']
+208,"['Credit Builder FD', 'Engagement Call Reminder']"
+209,"['Top-Up Loan', 'GoldCard', 'Engagement Call Reminder']"
+210,['Top-Up Loan']
+211,['Credit Builder FD']
+212,"['GoldCard', 'Engagement Call Reminder']"
+213,"['GoldCard', 'Engagement Call Reminder']"
+214,"['Credit Builder FD', 'Engagement Call Reminder']"
+215,['Maintain Current Portfolio']
+216,['Engagement Call Reminder']
+217,"['GoldCard', 'Credit Builder FD', 'Engagement Call Reminder']"
+218,['Engagement Call Reminder']
+219,"['Credit Builder FD', 'Engagement Call Reminder']"
+220,['Credit Builder FD']
+221,"['Top-Up Loan', 'GoldCard']"
+222,['Engagement Call Reminder']
+223,['Credit Builder FD']
+224,"['GoldCard', 'Investment Plan', 'Engagement Call Reminder']"
+225,['Maintain Current Portfolio']
+226,"['Platinum Card', 'GoldCard', 'Investment Plan', 'Engagement Call Reminder']"
+227,"['GoldCard', 'Credit Builder FD']"
+228,['Maintain Current Portfolio']
+229,"['GoldCard', 'Credit Builder FD']"
+230,['Maintain Current Portfolio']
+231,"['Credit Builder FD', 'Engagement Call Reminder']"
+232,['Engagement Call Reminder']
+233,['Credit Builder FD']
+234,"['Credit Builder FD', 'Engagement Call Reminder']"
+235,['Credit Builder FD']
+236,['GoldCard']
+237,['Credit Builder FD']
+238,['Engagement Call Reminder']
+239,"['Investment Plan', 'Engagement Call Reminder']"
+240,"['Credit Builder FD', 'Engagement Call Reminder']"
+241,"['Credit Builder FD', 'Engagement Call Reminder']"
+242,['Platinum Card']
+243,['Engagement Call Reminder']
+244,['Engagement Call Reminder']
+245,"['GoldCard', 'Engagement Call Reminder']"
+246,['Investment Plan']
+247,"['Top-Up Loan', 'Engagement Call Reminder']"
+248,"['Credit Builder FD', 'Engagement Call Reminder']"
+249,['Maintain Current Portfolio']
+250,"['GoldCard', 'Credit Builder FD', 'Engagement Call Reminder']"
+251,['Engagement Call Reminder']
+252,"['Credit Builder FD', 'Engagement Call Reminder']"
+253,['Credit Builder FD']
+254,"['Credit Builder FD', 'Engagement Call Reminder']"
+255,"['Top-Up Loan', 'Engagement Call Reminder']"
+256,['Engagement Call Reminder']
+257,"['Credit Builder FD', 'Engagement Call Reminder']"
+258,"['Top-Up Loan', 'Engagement Call Reminder']"
+259,"['Credit Builder FD', 'Engagement Call Reminder']"
+260,"['Top-Up Loan', 'Engagement Call Reminder']"
+261,['Engagement Call Reminder']
+262,['Credit Builder FD']
+263,['Top-Up Loan']
+264,"['Investment Plan', 'Engagement Call Reminder']"
+265,"['Platinum Card', 'Investment Plan', 'Engagement Call Reminder']"
+266,"['Credit Builder FD', 'Engagement Call Reminder']"
+267,"['Credit Builder FD', 'Engagement Call Reminder']"
+268,['Credit Builder FD']
+269,"['Platinum Card', 'Investment Plan', 'Engagement Call Reminder']"
+270,['Maintain Current Portfolio']
+271,['Maintain Current Portfolio']
+272,['GoldCard']
+273,"['GoldCard', 'Engagement Call Reminder']"
+274,['Credit Builder FD']
+275,['Maintain Current Portfolio']
+276,"['Top-Up Loan', 'GoldCard', 'Engagement Call Reminder']"
+277,['Maintain Current Portfolio']
+278,['Engagement Call Reminder']
+279,"['Platinum Card', 'Engagement Call Reminder']"
+280,"['Investment Plan', 'Engagement Call Reminder']"
+281,"['Credit Builder FD', 'Engagement Call Reminder']"
+282,['Top-Up Loan']
+283,['Engagement Call Reminder']
+284,"['GoldCard', 'Credit Builder FD', 'Engagement Call Reminder']"
+285,['Maintain Current Portfolio']
+286,['Credit Builder FD']
+287,"['Credit Builder FD', 'Engagement Call Reminder']"
+288,['Maintain Current Portfolio']
+289,['Maintain Current Portfolio']
+290,['Credit Builder FD']
+291,"['Credit Builder FD', 'Engagement Call Reminder']"
+292,"['Platinum Card', 'Engagement Call Reminder']"
+293,['Platinum Card']
+294,['Credit Builder FD']
+295,['Credit Builder FD']
+296,['Credit Builder FD']
+297,['Maintain Current Portfolio']
+298,"['Credit Builder FD', 'Engagement Call Reminder']"
+299,['Engagement Call Reminder']
+300,"['Credit Builder FD', 'Engagement Call Reminder']"
+301,"['Credit Builder FD', 'Engagement Call Reminder']"
+302,"['GoldCard', 'Engagement Call Reminder']"
+303,['Maintain Current Portfolio']
+304,"['Credit Builder FD', 'Engagement Call Reminder']"
+305,"['Platinum Card', 'Engagement Call Reminder']"
+306,['Engagement Call Reminder']
+307,"['GoldCard', 'Credit Builder FD', 'Engagement Call Reminder']"
+308,"['GoldCard', 'Engagement Call Reminder']"
+309,['Maintain Current Portfolio']
+310,"['GoldCard', 'Credit Builder FD', 'Engagement Call Reminder']"
+311,['Engagement Call Reminder']
+312,"['GoldCard', 'Engagement Call Reminder']"
+313,"['Credit Builder FD', 'Engagement Call Reminder']"
+314,"['Credit Builder FD', 'Engagement Call Reminder']"
+315,['Engagement Call Reminder']
+316,['Maintain Current Portfolio']
+317,"['Top-Up Loan', 'GoldCard']"
+318,"['Credit Builder FD', 'Engagement Call Reminder']"
+319,['Engagement Call Reminder']
+320,['Engagement Call Reminder']
+321,"['Credit Builder FD', 'Engagement Call Reminder']"
+322,['Credit Builder FD']
+323,"['Top-Up Loan', 'GoldCard', 'Engagement Call Reminder']"
+324,"['Platinum Card', 'GoldCard', 'Investment Plan']"
+325,['Credit Builder FD']
+326,['Credit Builder FD']
+327,"['GoldCard', 'Credit Builder FD']"
+328,"['Credit Builder FD', 'Engagement Call Reminder']"
+329,['Engagement Call Reminder']
+330,"['Top-Up Loan', 'GoldCard']"
+331,['Engagement Call Reminder']
+332,"['GoldCard', 'Engagement Call Reminder']"
+333,"['Credit Builder FD', 'Engagement Call Reminder']"
+334,"['Credit Builder FD', 'Engagement Call Reminder']"
+335,['Engagement Call Reminder']
+336,['Credit Builder FD']
+337,"['Credit Builder FD', 'Engagement Call Reminder']"
+338,['Engagement Call Reminder']
+339,"['Platinum Card', 'GoldCard', 'Investment Plan']"
+340,['Engagement Call Reminder']
+341,['Engagement Call Reminder']
+342,['Investment Plan']
+343,['Maintain Current Portfolio']
+344,"['Credit Builder FD', 'Engagement Call Reminder']"
+345,"['Platinum Card', 'GoldCard', 'Engagement Call Reminder']"
+346,['Top-Up Loan']
+347,"['Platinum Card', 'Investment Plan']"
+348,"['Top-Up Loan', 'Engagement Call Reminder']"
+349,"['Top-Up Loan', 'GoldCard']"
+350,"['Platinum Card', 'Engagement Call Reminder']"
+351,['Engagement Call Reminder']
+352,['Engagement Call Reminder']
+353,['Investment Plan']
+354,['Credit Builder FD']
+355,['Engagement Call Reminder']
+356,['Maintain Current Portfolio']
+357,"['Credit Builder FD', 'Engagement Call Reminder']"
+358,"['GoldCard', 'Credit Builder FD']"
+359,"['Platinum Card', 'Engagement Call Reminder']"
+360,['Top-Up Loan']
+361,['Credit Builder FD']
+362,['Platinum Card']
+363,"['GoldCard', 'Credit Builder FD']"
+364,['Credit Builder FD']
+365,['Credit Builder FD']
+366,['GoldCard']
+367,['Engagement Call Reminder']
+368,['Credit Builder FD']
+369,['Credit Builder FD']
+370,['Maintain Current Portfolio']
+371,"['Credit Builder FD', 'Engagement Call Reminder']"
+372,['Maintain Current Portfolio']
+373,"['Platinum Card', 'Investment Plan']"
+374,['Maintain Current Portfolio']
+375,"['Credit Builder FD', 'Engagement Call Reminder']"
+376,['Top-Up Loan']
+377,"['Platinum Card', 'Engagement Call Reminder']"
+378,['Engagement Call Reminder']
+379,['Maintain Current Portfolio']
+380,['GoldCard']
+381,['Engagement Call Reminder']
+382,"['Top-Up Loan', 'Engagement Call Reminder']"
+383,"['Credit Builder FD', 'Engagement Call Reminder']"
+384,['Credit Builder FD']
+385,"['Credit Builder FD', 'Engagement Call Reminder']"
+386,"['Credit Builder FD', 'Engagement Call Reminder']"
+387,['Credit Builder FD']
+388,"['Platinum Card', 'Engagement Call Reminder']"
+389,"['Credit Builder FD', 'Engagement Call Reminder']"
+390,['Engagement Call Reminder']
+391,"['GoldCard', 'Credit Builder FD']"
+392,"['Top-Up Loan', 'GoldCard', 'Engagement Call Reminder']"
+393,"['GoldCard', 'Credit Builder FD', 'Engagement Call Reminder']"
+394,"['Credit Builder FD', 'Engagement Call Reminder']"
+395,['Credit Builder FD']
+396,"['Platinum Card', 'Investment Plan']"
+397,['Maintain Current Portfolio']
+398,"['GoldCard', 'Credit Builder FD']"
+399,['Engagement Call Reminder']
+400,"['Top-Up Loan', 'GoldCard', 'Engagement Call Reminder']"
+401,"['Credit Builder FD', 'Engagement Call Reminder']"
+402,['Maintain Current Portfolio']
+403,"['GoldCard', 'Credit Builder FD', 'Engagement Call Reminder']"
+404,['Credit Builder FD']
+405,['Engagement Call Reminder']
+406,['Credit Builder FD']
+407,['Engagement Call Reminder']
+408,"['GoldCard', 'Credit Builder FD', 'Engagement Call Reminder']"
+409,['Engagement Call Reminder']
+410,"['Credit Builder FD', 'Engagement Call Reminder']"
+411,['Engagement Call Reminder']
+412,"['Platinum Card', 'GoldCard', 'Investment Plan', 'Engagement Call Reminder']"
+413,['Credit Builder FD']
+414,"['GoldCard', 'Credit Builder FD']"
+415,"['GoldCard', 'Investment Plan', 'Engagement Call Reminder']"
+416,"['Credit Builder FD', 'Engagement Call Reminder']"
+417,"['Platinum Card', 'GoldCard', 'Investment Plan', 'Engagement Call Reminder']"
+418,['Maintain Current Portfolio']
+419,"['GoldCard', 'Engagement Call Reminder']"
+420,['Engagement Call Reminder']
+421,['Maintain Current Portfolio']
+422,['Platinum Card']
+423,"['GoldCard', 'Credit Builder FD', 'Engagement Call Reminder']"
+424,['Top-Up Loan']
+425,"['GoldCard', 'Engagement Call Reminder']"
+426,"['Platinum Card', 'Investment Plan']"
+427,"['Platinum Card', 'Investment Plan']"
+428,"['Credit Builder FD', 'Engagement Call Reminder']"
+429,['Engagement Call Reminder']
+430,"['Credit Builder FD', 'Engagement Call Reminder']"
+431,"['Credit Builder FD', 'Engagement Call Reminder']"
+432,['Engagement Call Reminder']
+433,"['Credit Builder FD', 'Engagement Call Reminder']"
+434,['Engagement Call Reminder']
+435,['Engagement Call Reminder']
+436,['Engagement Call Reminder']
+437,"['GoldCard', 'Credit Builder FD']"
+438,"['GoldCard', 'Credit Builder FD', 'Engagement Call Reminder']"
+439,"['Platinum Card', 'Engagement Call Reminder']"
+440,['GoldCard']
+441,"['Platinum Card', 'Investment Plan']"
+442,"['Credit Builder FD', 'Engagement Call Reminder']"
+443,"['Top-Up Loan', 'GoldCard']"
+444,['Maintain Current Portfolio']
+445,['Engagement Call Reminder']
+446,"['Credit Builder FD', 'Engagement Call Reminder']"
+447,"['GoldCard', 'Investment Plan']"
+448,['Engagement Call Reminder']
+449,['Engagement Call Reminder']
+450,['Engagement Call Reminder']
+451,"['GoldCard', 'Credit Builder FD', 'Engagement Call Reminder']"
+452,['Investment Plan']
+453,['Credit Builder FD']
+454,['Engagement Call Reminder']
+455,['Investment Plan']
+456,['Credit Builder FD']
+457,"['Credit Builder FD', 'Engagement Call Reminder']"
+458,"['Top-Up Loan', 'Engagement Call Reminder']"
+459,['Engagement Call Reminder']
+460,['Maintain Current Portfolio']
+461,"['Top-Up Loan', 'Engagement Call Reminder']"
+462,['Maintain Current Portfolio']
+463,"['Platinum Card', 'Engagement Call Reminder']"
+464,"['Platinum Card', 'Engagement Call Reminder']"
+465,"['Top-Up Loan', 'Engagement Call Reminder']"
+466,"['Credit Builder FD', 'Engagement Call Reminder']"
+467,"['Top-Up Loan', 'GoldCard', 'Investment Plan', 'Engagement Call Reminder']"
+468,['Platinum Card']
+469,"['Credit Builder FD', 'Engagement Call Reminder']"
+470,"['Credit Builder FD', 'Engagement Call Reminder']"
+471,['Engagement Call Reminder']
+472,['Engagement Call Reminder']
+473,"['Credit Builder FD', 'Engagement Call Reminder']"
+474,"['Platinum Card', 'Investment Plan']"
+475,['Maintain Current Portfolio']
+476,['Credit Builder FD']
+477,['Top-Up Loan']
+478,['Engagement Call Reminder']
+479,"['GoldCard', 'Engagement Call Reminder']"
+480,['Maintain Current Portfolio']
+481,"['Credit Builder FD', 'Engagement Call Reminder']"
+482,"['GoldCard', 'Credit Builder FD', 'Engagement Call Reminder']"
+483,['Engagement Call Reminder']
+484,['Maintain Current Portfolio']
+485,['Maintain Current Portfolio']
+486,"['GoldCard', 'Engagement Call Reminder']"
+487,"['Top-Up Loan', 'Engagement Call Reminder']"
+488,['Engagement Call Reminder']
+489,"['Top-Up Loan', 'GoldCard']"
+490,['Maintain Current Portfolio']
+491,"['GoldCard', 'Credit Builder FD']"
+492,['Engagement Call Reminder']
+493,"['Credit Builder FD', 'Engagement Call Reminder']"
+494,"['Platinum Card', 'Engagement Call Reminder']"
+495,"['Top-Up Loan', 'Engagement Call Reminder']"
+496,['Maintain Current Portfolio']
+497,['Engagement Call Reminder']
+498,"['GoldCard', 'Credit Builder FD', 'Engagement Call Reminder']"
+499,"['Top-Up Loan', 'GoldCard']"
+500,"['Top-Up Loan', 'Engagement Call Reminder']"
+501,['Credit Builder FD']
+502,"['Investment Plan', 'Engagement Call Reminder']"
+503,"['Platinum Card', 'GoldCard']"
+504,['Engagement Call Reminder']
+505,['Engagement Call Reminder']
+506,"['Credit Builder FD', 'Engagement Call Reminder']"
+507,"['Investment Plan', 'Engagement Call Reminder']"
+508,['Top-Up Loan']
+509,"['Credit Builder FD', 'Engagement Call Reminder']"
+510,"['Top-Up Loan', 'GoldCard', 'Engagement Call Reminder']"
+511,['Engagement Call Reminder']
+512,['Credit Builder FD']
+513,"['Top-Up Loan', 'Engagement Call Reminder']"
+514,['Credit Builder FD']
+515,['Maintain Current Portfolio']
+516,['Maintain Current Portfolio']
+517,['Credit Builder FD']
+518,"['Top-Up Loan', 'Engagement Call Reminder']"
+519,['Engagement Call Reminder']
+520,['Maintain Current Portfolio']
+521,"['Top-Up Loan', 'Engagement Call Reminder']"
+522,['Engagement Call Reminder']
+523,['Engagement Call Reminder']
+524,['Credit Builder FD']
+525,['Maintain Current Portfolio']
+526,"['GoldCard', 'Credit Builder FD', 'Engagement Call Reminder']"
+527,['Investment Plan']
+528,['Engagement Call Reminder']
+529,['Engagement Call Reminder']
+530,['Investment Plan']
+531,"['Credit Builder FD', 'Engagement Call Reminder']"
+532,"['Credit Builder FD', 'Engagement Call Reminder']"
+533,['Credit Builder FD']
+534,"['Credit Builder FD', 'Engagement Call Reminder']"
+535,"['Credit Builder FD', 'Engagement Call Reminder']"
+536,['Credit Builder FD']
+537,"['Top-Up Loan', 'GoldCard', 'Engagement Call Reminder']"
+538,['Credit Builder FD']
+539,"['Investment Plan', 'Engagement Call Reminder']"
+540,"['Investment Plan', 'Engagement Call Reminder']"
+541,"['GoldCard', 'Credit Builder FD']"
+542,['GoldCard']
+543,"['Credit Builder FD', 'Engagement Call Reminder']"
+544,"['Credit Builder FD', 'Engagement Call Reminder']"
+545,['Maintain Current Portfolio']
+546,['Investment Plan']
+547,"['GoldCard', 'Credit Builder FD', 'Engagement Call Reminder']"
+548,['Maintain Current Portfolio']
+549,['Investment Plan']
+550,['Credit Builder FD']
+551,['Credit Builder FD']
+552,['Maintain Current Portfolio']
+553,"['Top-Up Loan', 'Investment Plan', 'Engagement Call Reminder']"
+554,['Maintain Current Portfolio']
+555,"['Investment Plan', 'Engagement Call Reminder']"
+556,"['Platinum Card', 'Engagement Call Reminder']"
+557,['Credit Builder FD']
+558,['Top-Up Loan']
+559,"['Top-Up Loan', 'Investment Plan', 'Engagement Call Reminder']"
+560,['Maintain Current Portfolio']
+561,['Credit Builder FD']
+562,"['GoldCard', 'Engagement Call Reminder']"
+563,"['Credit Builder FD', 'Engagement Call Reminder']"
+564,['Credit Builder FD']
+565,"['Credit Builder FD', 'Engagement Call Reminder']"
+566,['Top-Up Loan']
+567,"['Credit Builder FD', 'Engagement Call Reminder']"
+568,"['GoldCard', 'Credit Builder FD', 'Engagement Call Reminder']"
+569,"['Credit Builder FD', 'Engagement Call Reminder']"
+570,"['Investment Plan', 'Engagement Call Reminder']"
+571,['Engagement Call Reminder']
+572,['Top-Up Loan']
+573,"['Credit Builder FD', 'Engagement Call Reminder']"
+574,['Credit Builder FD']
+575,"['Credit Builder FD', 'Engagement Call Reminder']"
+576,['Engagement Call Reminder']
+577,['Maintain Current Portfolio']
+578,['Engagement Call Reminder']
+579,"['GoldCard', 'Engagement Call Reminder']"
+580,"['Credit Builder FD', 'Engagement Call Reminder']"
+581,['Engagement Call Reminder']
+582,"['Top-Up Loan', 'Investment Plan', 'Engagement Call Reminder']"
+583,"['Credit Builder FD', 'Engagement Call Reminder']"
+584,"['Credit Builder FD', 'Engagement Call Reminder']"
+585,['Engagement Call Reminder']
+586,"['Top-Up Loan', 'Engagement Call Reminder']"
+587,"['Credit Builder FD', 'Engagement Call Reminder']"
+588,"['Top-Up Loan', 'Investment Plan']"
+589,"['Platinum Card', 'Investment Plan', 'Engagement Call Reminder']"
+590,['Credit Builder FD']
+591,['Credit Builder FD']
+592,['Engagement Call Reminder']
+593,"['Credit Builder FD', 'Engagement Call Reminder']"
+594,['Maintain Current Portfolio']
+595,"['Top-Up Loan', 'Engagement Call Reminder']"
+596,"['Credit Builder FD', 'Engagement Call Reminder']"
+597,"['Credit Builder FD', 'Engagement Call Reminder']"
+598,"['Investment Plan', 'Engagement Call Reminder']"
+599,"['GoldCard', 'Engagement Call Reminder']"
+600,"['Platinum Card', 'GoldCard', 'Engagement Call Reminder']"
+601,['Engagement Call Reminder']
+602,"['Top-Up Loan', 'GoldCard', 'Investment Plan', 'Engagement Call Reminder']"
+603,"['Top-Up Loan', 'GoldCard', 'Engagement Call Reminder']"
+604,['Engagement Call Reminder']
+605,['Maintain Current Portfolio']
+606,"['GoldCard', 'Credit Builder FD']"
+607,"['GoldCard', 'Credit Builder FD', 'Engagement Call Reminder']"
+608,"['Credit Builder FD', 'Engagement Call Reminder']"
+609,['Investment Plan']
+610,"['GoldCard', 'Engagement Call Reminder']"
+611,['Credit Builder FD']
+612,['Engagement Call Reminder']
+613,['Engagement Call Reminder']
+614,['Engagement Call Reminder']
+615,['Credit Builder FD']
+616,['Engagement Call Reminder']
+617,['Maintain Current Portfolio']
+618,"['GoldCard', 'Engagement Call Reminder']"
+619,"['Credit Builder FD', 'Engagement Call Reminder']"
+620,['Platinum Card']
+621,['Top-Up Loan']
+622,"['Top-Up Loan', 'GoldCard', 'Engagement Call Reminder']"
+623,['Top-Up Loan']
+624,"['Credit Builder FD', 'Engagement Call Reminder']"
+625,['Engagement Call Reminder']
+626,['Engagement Call Reminder']
+627,['Engagement Call Reminder']
+628,['Top-Up Loan']
+629,['Maintain Current Portfolio']
+630,['Credit Builder FD']
+631,"['GoldCard', 'Investment Plan', 'Engagement Call Reminder']"
+632,['Investment Plan']
+633,"['Credit Builder FD', 'Engagement Call Reminder']"
+634,['Engagement Call Reminder']
+635,['Engagement Call Reminder']
+636,"['Platinum Card', 'Investment Plan', 'Engagement Call Reminder']"
+637,['Investment Plan']
+638,"['Credit Builder FD', 'Engagement Call Reminder']"
+639,['Engagement Call Reminder']
+640,['Engagement Call Reminder']
+641,"['Credit Builder FD', 'Engagement Call Reminder']"
+642,['Engagement Call Reminder']
+643,"['Platinum Card', 'Engagement Call Reminder']"
+644,['Engagement Call Reminder']
+645,['Credit Builder FD']
+646,['Engagement Call Reminder']
+647,['Engagement Call Reminder']
+648,['Credit Builder FD']
+649,"['GoldCard', 'Engagement Call Reminder']"
+650,['Engagement Call Reminder']
+651,['Engagement Call Reminder']
+652,"['GoldCard', 'Engagement Call Reminder']"
+653,"['Credit Builder FD', 'Engagement Call Reminder']"
+654,['Maintain Current Portfolio']
+655,"['Credit Builder FD', 'Engagement Call Reminder']"
+656,"['GoldCard', 'Engagement Call Reminder']"
+657,['Engagement Call Reminder']
+658,['Investment Plan']
+659,['Credit Builder FD']
+660,"['Platinum Card', 'GoldCard', 'Engagement Call Reminder']"
+661,"['Investment Plan', 'Engagement Call Reminder']"
+662,"['Credit Builder FD', 'Engagement Call Reminder']"
+663,['Credit Builder FD']
+664,"['Credit Builder FD', 'Engagement Call Reminder']"
+665,"['Credit Builder FD', 'Engagement Call Reminder']"
+666,"['GoldCard', 'Credit Builder FD', 'Engagement Call Reminder']"
+667,"['Platinum Card', 'Investment Plan']"
+668,['Credit Builder FD']
+669,"['Credit Builder FD', 'Engagement Call Reminder']"
+670,"['Credit Builder FD', 'Engagement Call Reminder']"
+671,['Credit Builder FD']
+672,['Top-Up Loan']
+673,"['Credit Builder FD', 'Engagement Call Reminder']"
+674,"['Credit Builder FD', 'Engagement Call Reminder']"
+675,"['Investment Plan', 'Engagement Call Reminder']"
+676,['Maintain Current Portfolio']
+677,['Credit Builder FD']
+678,"['Investment Plan', 'Engagement Call Reminder']"
+679,"['Top-Up Loan', 'GoldCard', 'Engagement Call Reminder']"
+680,['Top-Up Loan']
+681,['Investment Plan']
+682,"['GoldCard', 'Credit Builder FD', 'Engagement Call Reminder']"
+683,"['GoldCard', 'Credit Builder FD', 'Engagement Call Reminder']"
+684,"['GoldCard', 'Engagement Call Reminder']"
+685,"['Top-Up Loan', 'GoldCard']"
+686,['Top-Up Loan']
+687,['Engagement Call Reminder']
+688,['Maintain Current Portfolio']
+689,['Engagement Call Reminder']
+690,"['GoldCard', 'Credit Builder FD', 'Engagement Call Reminder']"
+691,['Credit Builder FD']
+692,['Credit Builder FD']
+693,"['Credit Builder FD', 'Engagement Call Reminder']"
+694,['Credit Builder FD']
+695,['Credit Builder FD']
+696,"['Platinum Card', 'Investment Plan', 'Engagement Call Reminder']"
+697,"['GoldCard', 'Credit Builder FD', 'Engagement Call Reminder']"
+698,"['Platinum Card', 'Investment Plan', 'Engagement Call Reminder']"
+699,['Credit Builder FD']
+700,"['Platinum Card', 'Engagement Call Reminder']"
+701,"['Top-Up Loan', 'GoldCard']"
+702,"['Credit Builder FD', 'Engagement Call Reminder']"
+703,['Top-Up Loan']
+704,"['Platinum Card', 'Investment Plan', 'Engagement Call Reminder']"
+705,['Credit Builder FD']
+706,['Maintain Current Portfolio']
+707,['Engagement Call Reminder']
+708,['Credit Builder FD']
+709,"['Top-Up Loan', 'Engagement Call Reminder']"
+710,"['Credit Builder FD', 'Engagement Call Reminder']"
+711,['Platinum Card']
+712,['Maintain Current Portfolio']
+713,"['Top-Up Loan', 'GoldCard', 'Engagement Call Reminder']"
+714,"['Top-Up Loan', 'GoldCard', 'Engagement Call Reminder']"
+715,['Engagement Call Reminder']
+716,['Engagement Call Reminder']
+717,['Engagement Call Reminder']
+718,['Platinum Card']
+719,"['Credit Builder FD', 'Engagement Call Reminder']"
+720,['Credit Builder FD']
+721,['Engagement Call Reminder']
+722,"['Top-Up Loan', 'Investment Plan', 'Engagement Call Reminder']"
+723,"['GoldCard', 'Credit Builder FD', 'Engagement Call Reminder']"
+724,"['Platinum Card', 'Investment Plan', 'Engagement Call Reminder']"
+725,['Engagement Call Reminder']
+726,"['Credit Builder FD', 'Engagement Call Reminder']"
+727,['Engagement Call Reminder']
+728,"['Platinum Card', 'Investment Plan', 'Engagement Call Reminder']"
+729,['Maintain Current Portfolio']
+730,"['Top-Up Loan', 'GoldCard', 'Engagement Call Reminder']"
+731,"['Platinum Card', 'GoldCard', 'Investment Plan', 'Engagement Call Reminder']"
+732,['Credit Builder FD']
+733,['Engagement Call Reminder']
+734,"['GoldCard', 'Investment Plan']"
+735,"['GoldCard', 'Investment Plan', 'Engagement Call Reminder']"
+736,"['Credit Builder FD', 'Engagement Call Reminder']"
+737,['Credit Builder FD']
+738,"['Credit Builder FD', 'Engagement Call Reminder']"
+739,"['GoldCard', 'Credit Builder FD', 'Engagement Call Reminder']"
+740,['Top-Up Loan']
+741,['Engagement Call Reminder']
+742,"['Credit Builder FD', 'Engagement Call Reminder']"
+743,"['Top-Up Loan', 'Engagement Call Reminder']"
+744,['Credit Builder FD']
+745,['Maintain Current Portfolio']
+746,"['Credit Builder FD', 'Engagement Call Reminder']"
+747,"['Credit Builder FD', 'Engagement Call Reminder']"
+748,"['Credit Builder FD', 'Engagement Call Reminder']"
+749,['Credit Builder FD']
+750,['Maintain Current Portfolio']
+751,"['Credit Builder FD', 'Engagement Call Reminder']"
+752,['Maintain Current Portfolio']
+753,"['Credit Builder FD', 'Engagement Call Reminder']"
+754,"['Credit Builder FD', 'Engagement Call Reminder']"
+755,"['Investment Plan', 'Engagement Call Reminder']"
+756,"['Investment Plan', 'Engagement Call Reminder']"
+757,['Engagement Call Reminder']
+758,"['Credit Builder FD', 'Engagement Call Reminder']"
+759,"['GoldCard', 'Credit Builder FD']"
+760,"['Top-Up Loan', 'GoldCard', 'Engagement Call Reminder']"
+761,['Maintain Current Portfolio']
+762,"['Platinum Card', 'Investment Plan', 'Engagement Call Reminder']"
+763,['Maintain Current Portfolio']
+764,['Maintain Current Portfolio']
+765,"['GoldCard', 'Credit Builder FD', 'Engagement Call Reminder']"
+766,['GoldCard']
+767,['Engagement Call Reminder']
+768,"['Credit Builder FD', 'Engagement Call Reminder']"
+769,['Engagement Call Reminder']
+770,"['Top-Up Loan', 'Engagement Call Reminder']"
+771,['Maintain Current Portfolio']
+772,['Engagement Call Reminder']
+773,['Maintain Current Portfolio']
+774,"['Credit Builder FD', 'Engagement Call Reminder']"
+775,['Top-Up Loan']
+776,['Platinum Card']
+777,"['Top-Up Loan', 'GoldCard', 'Engagement Call Reminder']"
+778,"['Top-Up Loan', 'Investment Plan', 'Engagement Call Reminder']"
+779,['Maintain Current Portfolio']
+780,"['Credit Builder FD', 'Engagement Call Reminder']"
+781,['Investment Plan']
+782,"['GoldCard', 'Investment Plan']"
+783,"['Investment Plan', 'Engagement Call Reminder']"
+784,['GoldCard']
+785,['Maintain Current Portfolio']
+786,['Credit Builder FD']
+787,['Top-Up Loan']
+788,['GoldCard']
+789,['Maintain Current Portfolio']
+790,"['Credit Builder FD', 'Engagement Call Reminder']"
+791,"['Credit Builder FD', 'Engagement Call Reminder']"
+792,"['Credit Builder FD', 'Engagement Call Reminder']"
+793,['Investment Plan']
+794,"['GoldCard', 'Engagement Call Reminder']"
+795,['Engagement Call Reminder']
+796,"['Platinum Card', 'Investment Plan']"
+797,['Maintain Current Portfolio']
+798,['Credit Builder FD']
+799,"['Credit Builder FD', 'Engagement Call Reminder']"
+800,"['Credit Builder FD', 'Engagement Call Reminder']"
+801,['Maintain Current Portfolio']
+802,"['Investment Plan', 'Engagement Call Reminder']"
+803,['Maintain Current Portfolio']
+804,['Engagement Call Reminder']
+805,"['Top-Up Loan', 'Engagement Call Reminder']"
+806,"['Credit Builder FD', 'Engagement Call Reminder']"
+807,['Maintain Current Portfolio']
+808,"['Credit Builder FD', 'Engagement Call Reminder']"
+809,"['Platinum Card', 'Engagement Call Reminder']"
+810,"['Top-Up Loan', 'GoldCard']"
+811,"['Top-Up Loan', 'Engagement Call Reminder']"
+812,['Top-Up Loan']
+813,"['Credit Builder FD', 'Engagement Call Reminder']"
+814,"['Credit Builder FD', 'Engagement Call Reminder']"
+815,['Platinum Card']
+816,"['GoldCard', 'Engagement Call Reminder']"
+817,['Engagement Call Reminder']
+818,['Platinum Card']
+819,"['Credit Builder FD', 'Engagement Call Reminder']"
+820,"['Credit Builder FD', 'Engagement Call Reminder']"
+821,['Engagement Call Reminder']
+822,['Credit Builder FD']
+823,['Maintain Current Portfolio']
+824,['Engagement Call Reminder']
+825,['Maintain Current Portfolio']
+826,"['Credit Builder FD', 'Engagement Call Reminder']"
+827,['Engagement Call Reminder']
+828,['Top-Up Loan']
+829,"['Top-Up Loan', 'GoldCard', 'Engagement Call Reminder']"
+830,['Credit Builder FD']
+831,"['Credit Builder FD', 'Engagement Call Reminder']"
+832,['Credit Builder FD']
+833,"['GoldCard', 'Credit Builder FD', 'Engagement Call Reminder']"
+834,"['Credit Builder FD', 'Engagement Call Reminder']"
+835,"['Top-Up Loan', 'GoldCard', 'Engagement Call Reminder']"
+836,"['GoldCard', 'Credit Builder FD', 'Engagement Call Reminder']"
+837,"['GoldCard', 'Engagement Call Reminder']"
+838,"['GoldCard', 'Credit Builder FD']"
+839,['Maintain Current Portfolio']
+840,['Credit Builder FD']
+841,"['Credit Builder FD', 'Engagement Call Reminder']"
+842,['Engagement Call Reminder']
+843,"['GoldCard', 'Credit Builder FD']"
+844,"['Investment Plan', 'Engagement Call Reminder']"
+845,"['Platinum Card', 'GoldCard']"
+846,['Top-Up Loan']
+847,['Credit Builder FD']
+848,['Engagement Call Reminder']
+849,"['Top-Up Loan', 'Engagement Call Reminder']"
+850,['Maintain Current Portfolio']
+851,"['Top-Up Loan', 'GoldCard', 'Engagement Call Reminder']"
+852,"['Credit Builder FD', 'Engagement Call Reminder']"
+853,['Maintain Current Portfolio']
+854,"['Credit Builder FD', 'Engagement Call Reminder']"
+855,['Engagement Call Reminder']
+856,"['Credit Builder FD', 'Engagement Call Reminder']"
+857,"['GoldCard', 'Credit Builder FD', 'Engagement Call Reminder']"
+858,['Engagement Call Reminder']
+859,['Engagement Call Reminder']
+860,['Credit Builder FD']
+861,['Maintain Current Portfolio']
+862,"['Credit Builder FD', 'Engagement Call Reminder']"
+863,"['Credit Builder FD', 'Engagement Call Reminder']"
+864,"['Platinum Card', 'Engagement Call Reminder']"
+865,['Engagement Call Reminder']
+866,['Credit Builder FD']
+867,"['Top-Up Loan', 'GoldCard', 'Engagement Call Reminder']"
+868,['Credit Builder FD']
+869,['Engagement Call Reminder']
+870,['Engagement Call Reminder']
+871,['Engagement Call Reminder']
+872,['Credit Builder FD']
+873,['Engagement Call Reminder']
+874,"['Credit Builder FD', 'Engagement Call Reminder']"
+875,['Maintain Current Portfolio']
+876,"['Investment Plan', 'Engagement Call Reminder']"
+877,['Top-Up Loan']
+878,['Engagement Call Reminder']
+879,"['Platinum Card', 'GoldCard', 'Engagement Call Reminder']"
+880,"['Top-Up Loan', 'GoldCard']"
+881,"['Platinum Card', 'Engagement Call Reminder']"
+882,['Engagement Call Reminder']
+883,['Credit Builder FD']
+884,"['Top-Up Loan', 'Engagement Call Reminder']"
+885,['Engagement Call Reminder']
+886,"['Platinum Card', 'Investment Plan']"
+887,"['Top-Up Loan', 'Engagement Call Reminder']"
+888,"['GoldCard', 'Investment Plan']"
+889,"['GoldCard', 'Engagement Call Reminder']"
+890,['Credit Builder FD']
+891,['Maintain Current Portfolio']
+892,"['Top-Up Loan', 'Engagement Call Reminder']"
+893,['Engagement Call Reminder']
+894,['Engagement Call Reminder']
+895,"['GoldCard', 'Investment Plan', 'Engagement Call Reminder']"
+896,['Credit Builder FD']
+897,['Top-Up Loan']
+898,['Engagement Call Reminder']
+899,"['Credit Builder FD', 'Engagement Call Reminder']"
+900,"['Credit Builder FD', 'Engagement Call Reminder']"
+901,"['Investment Plan', 'Engagement Call Reminder']"
+902,['Engagement Call Reminder']
+903,['GoldCard']
+904,"['Top-Up Loan', 'GoldCard', 'Engagement Call Reminder']"
+905,"['Credit Builder FD', 'Engagement Call Reminder']"
+906,"['Platinum Card', 'GoldCard', 'Investment Plan']"
+907,"['Credit Builder FD', 'Engagement Call Reminder']"
+908,"['Platinum Card', 'Engagement Call Reminder']"
+909,"['Credit Builder FD', 'Engagement Call Reminder']"
+910,['Credit Builder FD']
+911,['Engagement Call Reminder']
+912,['Maintain Current Portfolio']
+913,['Maintain Current Portfolio']
+914,['Credit Builder FD']
+915,"['Credit Builder FD', 'Engagement Call Reminder']"
+916,['Engagement Call Reminder']
+917,['Credit Builder FD']
+918,['Credit Builder FD']
+919,"['Credit Builder FD', 'Engagement Call Reminder']"
+920,['Engagement Call Reminder']
+921,"['GoldCard', 'Credit Builder FD']"
+922,['Engagement Call Reminder']
+923,"['Credit Builder FD', 'Engagement Call Reminder']"
+924,['Engagement Call Reminder']
+925,"['Platinum Card', 'Investment Plan']"
+926,['Top-Up Loan']
+927,"['Credit Builder FD', 'Engagement Call Reminder']"
+928,['Credit Builder FD']
+929,"['Credit Builder FD', 'Engagement Call Reminder']"
+930,"['Credit Builder FD', 'Engagement Call Reminder']"
+931,['Maintain Current Portfolio']
+932,['Maintain Current Portfolio']
+933,['Maintain Current Portfolio']
+934,['Platinum Card']
+935,['Maintain Current Portfolio']
+936,['Credit Builder FD']
+937,['Top-Up Loan']
+938,"['GoldCard', 'Credit Builder FD', 'Engagement Call Reminder']"
+939,['Credit Builder FD']
+940,['Maintain Current Portfolio']
+941,['Maintain Current Portfolio']
+942,['Engagement Call Reminder']
+943,"['Platinum Card', 'GoldCard', 'Investment Plan']"
+944,"['Credit Builder FD', 'Engagement Call Reminder']"
+945,['Maintain Current Portfolio']
+946,"['Top-Up Loan', 'Engagement Call Reminder']"
+947,"['Credit Builder FD', 'Engagement Call Reminder']"
+948,['Engagement Call Reminder']
+949,"['Credit Builder FD', 'Engagement Call Reminder']"
+950,"['Credit Builder FD', 'Engagement Call Reminder']"
+951,"['Credit Builder FD', 'Engagement Call Reminder']"
+952,['Engagement Call Reminder']
+953,"['Credit Builder FD', 'Engagement Call Reminder']"
+954,"['Top-Up Loan', 'GoldCard']"
+955,['GoldCard']
+956,"['Top-Up Loan', 'Engagement Call Reminder']"
+957,['Credit Builder FD']
+958,"['Platinum Card', 'Investment Plan', 'Engagement Call Reminder']"
+959,"['Credit Builder FD', 'Engagement Call Reminder']"
+960,['Investment Plan']
+961,['Top-Up Loan']
+962,"['Platinum Card', 'Investment Plan', 'Engagement Call Reminder']"
+963,['Engagement Call Reminder']
+964,['Engagement Call Reminder']
+965,['Engagement Call Reminder']
+966,['Engagement Call Reminder']
+967,['Credit Builder FD']
+968,"['Top-Up Loan', 'GoldCard']"
+969,['Engagement Call Reminder']
+970,['Engagement Call Reminder']
+971,"['Investment Plan', 'Engagement Call Reminder']"
+972,"['Credit Builder FD', 'Engagement Call Reminder']"
+973,['Maintain Current Portfolio']
+974,"['Top-Up Loan', 'GoldCard', 'Investment Plan']"
+975,['Engagement Call Reminder']
+976,['Top-Up Loan']
+977,"['Investment Plan', 'Engagement Call Reminder']"
+978,['Credit Builder FD']
+979,['Engagement Call Reminder']
+980,['Platinum Card']
+981,"['Credit Builder FD', 'Engagement Call Reminder']"
+982,['Maintain Current Portfolio']
+983,['Engagement Call Reminder']
+984,"['Credit Builder FD', 'Engagement Call Reminder']"
+985,"['GoldCard', 'Credit Builder FD', 'Engagement Call Reminder']"
+986,"['GoldCard', 'Credit Builder FD', 'Engagement Call Reminder']"
+987,['Engagement Call Reminder']
+988,['Engagement Call Reminder']
+989,"['Top-Up Loan', 'GoldCard', 'Engagement Call Reminder']"
+990,"['Platinum Card', 'Investment Plan', 'Engagement Call Reminder']"
+991,['Credit Builder FD']
+992,['Credit Builder FD']
+993,['Maintain Current Portfolio']
+994,['Platinum Card']
+995,"['Credit Builder FD', 'Engagement Call Reminder']"
+996,"['GoldCard', 'Credit Builder FD']"
+997,['Engagement Call Reminder']
+998,"['Credit Builder FD', 'Engagement Call Reminder']"
+999,['Maintain Current Portfolio']
+1000,"['Top-Up Loan', 'Engagement Call Reminder']"

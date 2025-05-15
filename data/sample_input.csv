@@ -1,0 +1,6 @@
+age,gender,marital_status,income,credit_score,account_balance,loan_amount,num_transactions
+30,Male,Married,50000,720,10000,5000,10
+45,Female,Single,60000,650,20000,10000,15
+28,Male,Single,40000,690,15000,4000,5
+35,Female,Married,70000,750,18000,7000,20
+50,Male,Married,80000,780,12000,6000,25
